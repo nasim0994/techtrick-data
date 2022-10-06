@@ -1,12 +1,12 @@
 [
   {
     "id": "633ba14e52be0a00b04ee9da",
-    "category": "Web Development",
+    "category": "Web Design",
     "subCategory": "",
     "author_img": "https://nasim0994.github.io/nasim-portfolio/img/nasim-1.jpg",
-    "title": "What is Web Design",
+    "title": "What is Web Design?",
     "body": "Web design is the art of planning and arranging content on a website so that it can be shared and accessed online with the world. A combination of aesthetic and functional elements, web design is what determines the look of a website—such as its colors, fonts, and graphics—as well as shaping the site’s structure and the users’ experience of it. Today, creating a website is one of the pillars of having an online presence. Because of this, the world of web design is as dynamic as ever. It is constantly evolving, including mobile apps and user interface design, to meet the growing needs of website owners and visitors alike. Web design is often a collaborative process that combines knowledge and tools from related industries, ranging from web design statistics to SEO optimization and UX. Web designers will often bring together professionals from these areas who can optimize performance and focus on the larger process and outcome.",
-    "thumbnail": "./../img/posts/post-1.png",
+    "thumbnail": "https://img.freepik.com/free-vector/cartoon-web-design-background_52683-70879.jpg?w=2000g",
     "like": 50,
     "comment": 0,
     "views": 120
